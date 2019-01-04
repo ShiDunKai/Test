@@ -13,6 +13,8 @@ public class DemoApplicationTests {
     public void contextLoads() {
         System.out.println("编写代码形成修改");
         System.out.println("提交后进行推送");
+
+        System.out.println("使用sourcetree进行git操作");
     }
 
 }
