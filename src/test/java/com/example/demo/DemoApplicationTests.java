@@ -11,7 +11,7 @@ public class DemoApplicationTests {
 
     @Test
     public void contextLoads() {
-        
+        System.out.println("编写代码形成修改");
     }
 
 }
