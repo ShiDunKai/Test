@@ -12,6 +12,7 @@ public class DemoApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("编写代码形成修改");
+        System.out.println("提交后进行推送");
     }
 
 }
